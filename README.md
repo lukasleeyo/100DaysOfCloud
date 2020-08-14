@@ -22,8 +22,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ✍️ I would like to be certified at the associate level for Microsoft Azure and Google Cloud Platform (ACE).
 
-- [✍️ Link to your Twitter](https://twitter.com/LukasLee123)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/leejiawei/)
+- [✍️ Follow my progress at Twitter](https://twitter.com/LukasLee123)
+- [✍️ Check out my LinkedIn profile](https://www.linkedin.com/in/leejiawei/)
 
 ## Stepping out the door
 

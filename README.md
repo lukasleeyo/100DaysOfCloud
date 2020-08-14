@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## ✍️ Lukas's Cloud Journey
 
-[✍️ Introduce yourself]
+✍️ Hey there! I am Lukas, currently serving the mandatory army service with 1 more year to go. I graduated with a diploma in IT at Nanyang Polytechnic at Singapore.
 
-[✍️ Tell us why you started this challenge]
+✍️ During my service with the army, I realize I haven't been touching the tech and feeling lost. Since I am left with a year to go, I will want to make full use of my time to re-visit the tech especially the cloud since I am interested at the cloud for now.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+✍️ I would like to be certified at the associate level for Microsoft Azure and Google Cloud Platform (ACE).
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/LukasLee123)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/leejiawei/)
 
 ## Stepping out the door
 

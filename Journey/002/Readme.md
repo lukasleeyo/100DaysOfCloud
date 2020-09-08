@@ -5,45 +5,29 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ (Why) I have this contact me form on my portfolio website not working for a long time and I wanted to make it work.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ (What) Since my portfolio website is hosted via S3 static hosting, I have to use serverless feature.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ✍️ (Show-Me) Users can now submit contact me form and I will receive the email. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ Tried API gateway with HTTP API and it won't work because of CORS issue. Finally solved it with API Gateway REST API with CORS enabled.
+-  Followed the following tutorial: https://aws.amazon.com/blogs/architecture/create-dynamic-contact-forms-for-s3-static-websites-using-aws-lambda-amazon-api-gateway-and-amazon-ses/
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ (Result) Yay now my static s3 website works with sending email to myself without servers, embrace the serverless!
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ Explore more serverless stuff.
 
 ## Social Proof
 

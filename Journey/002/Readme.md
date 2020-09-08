@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Getting my Contact me form work on my S3 static portfolio website
 
 ## Introduction
 
@@ -18,7 +18,7 @@
 ## Cloud Research
 
 - ✍️ Tried API gateway with HTTP API and it won't work because of CORS issue. Finally solved it with API Gateway REST API with CORS enabled.
--  Followed the following tutorial: https://aws.amazon.com/blogs/architecture/create-dynamic-contact-forms-for-s3-static-websites-using-aws-lambda-amazon-api-gateway-and-amazon-ses/
+-  Followed the following tutorial: [link](https://aws.amazon.com/blogs/architecture/create-dynamic-contact-forms-for-s3-static-websites-using-aws-lambda-amazon-api-gateway-and-amazon-ses/)
 
 
 ## ☁️ Cloud Outcome
@@ -33,4 +33,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/LukasLee123/status/1303338032754352130)

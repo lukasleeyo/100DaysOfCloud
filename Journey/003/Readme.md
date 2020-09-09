@@ -1,7 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# DAY 3 三 Tiga
 
 ## Introduction
 
@@ -27,4 +24,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/LukasLee123/status/1303725083395989505)

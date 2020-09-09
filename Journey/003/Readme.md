@@ -11,23 +11,14 @@
 
 ✍️ Since I am using Amazon SES's verified domain feature, I must use Route 53 for my portfolio website hosting which I already have done this.
 
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
 ## ☁️ Cloud Outcome
 
 ✍️ The outcome is I was able to get my custom email domain works.
+### My portfolio site contact form
+![Screenshot](https://github.com/lukasleeyo/100DaysOfCloud/blob/main/Journey/003/assets/contact.PNG)
+### The expected mail when visitors submit the contact form on my portfolio site.
+![Screenshot](https://github.com/lukasleeyo/100DaysOfCloud/blob/main/Journey/003/assets/email.PNG)
 
-![Screenshot](/assets/contact.PNG)
-![Screenshot](/assets/email.PNG)
 ## Next Steps
 
 ✍️ I will want to dive into development side of AWS so might take up AWS certified developer courses.

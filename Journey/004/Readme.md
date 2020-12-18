@@ -1,45 +1,42 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/media/tutorial-acm-create-budgets/cost-analysis.png)
 
 # New post title here
-
+Exploring Azure - Setting Budget Alerts
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ It's always good to set some sort of budget alerts to prevent shock of the cloud bills.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ You need to have at least a pay-as-you-go subscription before you can create budget alerts. Free trial and Microsoft Imagine subscriptions cannot create budget alerts.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ Clicking on "Cost alerts" to create the budget alert is the same as clicking on "Budgets" under the respective subscription.
+- ![Screenshot](Journey/004/assets/alerts.PNG)
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+✍️ Tutorial on how to create budget alerts 
+- [link](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ My bills will not overshot 10 bucks as I will stop the services when the budget alert triggered (90% of the 10 bucks threshold) and will notify me through email.
+
+## What I have learnt
+- What is the difference between a Budget Alert and a Credit Alert?
+    - Budget alert is used for pay-as-you-go subscription whereas credit alert is used from enterprise level subscription such as Microsoft MSDN Azure subscription.
+- What is the cost for creating Cost Alerts?
+    - It's free to create cost alerts in MS Azure :D
+- When a cost alert is triggered how will you know?
+    - A cost alert will be triggered based on the threshold which is 9 dollars for me and it will notify me via email.
+- Under what service in the Azure Portal do you find Cost Alerts?
+    - Under the Subscriptions -> your_subscription -> Cost Management: your_subscription -> Budgets.
+
 
 ## Next Steps
 
@@ -50,3 +47,11 @@
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
+
+
+## Project/topic references
+- [link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/BIL/BIL01/BIL01-AZ100.md)
+
+
+## PS
+- Place holder image taken from Microsoft docs website.

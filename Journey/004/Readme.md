@@ -1,8 +1,8 @@
 **Add a cover photo like:**
 ![placeholder image](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/media/tutorial-acm-create-budgets/cost-analysis.png)
 
-# New post title here
-Exploring Azure - Setting Budget Alerts
+# Exploring Azure - Setting Budget Alerts
+
 ## Introduction
 
 ✍️ It's always good to set some sort of budget alerts to prevent shock of the cloud bills.
@@ -15,12 +15,12 @@ Exploring Azure - Setting Budget Alerts
 ## Cloud Research
 
 - ✍️ Clicking on "Cost alerts" to create the budget alert is the same as clicking on "Budgets" under the respective subscription.
-- ![Screenshot](Journey/004/assets/alerts.PNG)
+- ![Screenshot](Journey/004/assets/alerts.png)
 
 ## Try yourself
 
 ✍️ Tutorial on how to create budget alerts 
-- [link](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
+- [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
 
 
 ## ☁️ Cloud Outcome
@@ -50,7 +50,7 @@ Exploring Azure - Setting Budget Alerts
 
 
 ## Project/topic references
-- [link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/BIL/BIL01/BIL01-AZ100.md)
+- [Exploring Azure - Setting Budget Alerts](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/BIL/BIL01/BIL01-AZ100.md)
 
 
 ## PS

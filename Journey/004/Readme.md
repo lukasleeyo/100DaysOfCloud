@@ -1,4 +1,3 @@
-**Add a cover photo like:**
 ![placeholder image](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/media/tutorial-acm-create-budgets/cost-analysis.png)
 
 # Exploring Azure - Setting Budget Alerts
@@ -15,7 +14,7 @@
 ## Cloud Research
 
 - ✍️ Clicking on "Cost alerts" to create the budget alert is the same as clicking on "Budgets" under the respective subscription.
-- ![Screenshot](../../Journey/004/assets/alerts.png)
+- ![Screenshot](../../Journey/004/assets/alerts.PNG)
 
 ## Try yourself
 

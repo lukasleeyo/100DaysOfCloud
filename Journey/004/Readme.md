@@ -9,6 +9,7 @@
 ## Prerequisite
 
 ✍️ You need to have at least a pay-as-you-go subscription before you can create budget alerts. Free trial and Microsoft Imagine subscriptions cannot create budget alerts.
+
 ✍️ You need to have a subscription (free trial / pay-as-you-go) etc to create virtual machine.
 
 ## Cloud Research
@@ -20,12 +21,14 @@
 
 ✍️ Tutorial on how to create budget alerts 
 - [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
+
 ✍️ Introduction to Azure Virtual Machines
 - [Introduction to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
 
 ## ☁️ Cloud Outcome
 
 ✍️ My bills will not overshot 10 bucks as I will stop the services when the budget alert triggered (90% of the 10 bucks threshold) and will notify me through email.
+
 ✍️ I now understood that before even thinking about creating VMs, we should think about communications and network first. Always plan before executing.
 
 ## What I have learnt
